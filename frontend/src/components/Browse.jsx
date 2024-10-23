@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './shared/Navbar';
 import Job from './Job';
-
+// _rowser
 const randomJobs = [1,2,3];
 
 const Browse = () => {
